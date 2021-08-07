@@ -1,5 +1,7 @@
 ## Application Licensing Program
 
+Using Library ([CryptHWID](https://github.com/EugeneSunrise/CryptHWID))
+
 1. Id is sent to you by the user who needs to issue a license.
 2. The software generates a key, which you send to the user, with its help the license is activated.
 
